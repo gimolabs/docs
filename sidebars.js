@@ -21,7 +21,11 @@ const sidebars = {
   // But you can create a sidebar manually
   docsSidebar: [
     'intro',
-    '0g',
+    {
+      type: 'doc',
+       id: '0g',
+      label: '0G',
+    },
     {
       type: 'category',
       label: 'Gimo Finance',

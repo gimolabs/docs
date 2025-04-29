@@ -37,7 +37,7 @@ Gimo Finance applies a 10% commission fee to staking rewards. For every 100 A0GI
 | Gimo Finance | $10$ | $100 × 0.1$ |
 
 ## Exchange Rate Dynamics
-st0G is an interest-bearing asset whose value continuously appreciates as rewards accumulate. A0GI staked via the Gimo App is transferred to the OG Staking Vault, with rewards periodically calculated and reflected on-chain in the exchange rate.
+st0G is an interest-bearing asset whose value continuously appreciates as rewards accumulate. A0GI staked via the Gimo App is transferred to the 0G Staking Vault, with rewards periodically calculated and reflected on-chain in the exchange rate.
 
 Since there is no slashing, the st0G exchange rate is guaranteed to increase over time, allowing later redeemers to potentially receive more A0GI than earlier ones.
 
@@ -57,6 +57,6 @@ Where:
 - The total amount of st0G burned: $N$
 
 ### Yield Structure
-Following launch, the OG Staking Vault will be migrated to the XXXXXX, ensuring consistent APY returns from the current Vault.
+Following launch, the 0G Staking Vault will be migrated to the XXXXXX, ensuring consistent APY returns from the current Vault.
 
 Initially, Gimo Finance will support a single staking option with a 3-month lock-in period. Future enhancements may introduce longer lock durations, providing users with increased yield potential and enhanced flexibility.

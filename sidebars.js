@@ -48,13 +48,13 @@ const sidebars = {
         // 'security/audit',
       ],
     },
-    {
-      type: 'category',
-      label: 'Guide',
-      items: ['guide/staking_a0gi_with_gimo', 'guide/contract_addresses'],
-      collapsible: false,
-      collapsed: false,
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Guide',
+    //   items: ['guide/staking_a0gi_with_gimo', 'guide/contract_addresses'],
+    //   collapsible: false,
+    //   collapsed: false,
+    // },
   ],
 };
 

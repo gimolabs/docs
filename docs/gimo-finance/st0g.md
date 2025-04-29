@@ -19,7 +19,7 @@ Unstaking involves two steps: submitting an unstake request and withdrawing the 
 ## Withdraw
 Withdrawals will become available on XXXX-XX-XX, several months after Gimo Finance's withdraw function launch. Post-activation, users can withdraw A0GI based on availability:
 
-- Every XX hours, Gimo receives principal and rewards from the 0G chain.
+- Every 22 days, Gimo receives principal and rewards from the 0G chain.
 - If available funds are insufficient to meet withdrawal requests, they roll over.
 - If sufficient, withdrawals can be processed instantly.
 - All requests follow a first-come, first-served system with estimated wait times displayed in-app.
@@ -56,7 +56,12 @@ Where:
 - The total amount of st0G minted: $M$
 - The total amount of st0G burned: $N$
 
-### Yield Structure
-Following launch, the 0G Staking Vault will be migrated to the XXXXXX, ensuring consistent APY returns from the current Vault.
+## Yield Structure
 
-Initially, Gimo Finance will support a single staking option with a 3-month lock-in period. Future enhancements may introduce longer lock durations, providing users with increased yield potential and enhanced flexibility.
+The protocol's yield structure as follows:
+
+- Network participation metrics
+- Total protocol stake
+- Market dynamics
+
+Token holders may monitor their staking performance and the protocol's annual percentage yield (APY) through the integrated dashboard interface.

@@ -17,16 +17,8 @@ Gimo Finance offers a liquid staking process similar to other LSD protocols. Use
 Unstaking involves two steps: submitting an unstake request and withdrawing the underlying asset. When a user submits an unstake request, their st0G is burned to reserve an equivalent amount of A0GI for future withdrawal. No rewards are accrued post-unstake.
 
 ## Withdraw
-Withdrawals will become available on XXXX-XX-XX, several months after Gimo Finance's withdraw function launch. Post-activation, users can withdraw A0GI based on availability:
 
-- Every 22 days, Gimo receives principal and rewards from the 0G chain.
-- If available funds are insufficient to meet withdrawal requests, they roll over.
-- If sufficient, withdrawals can be processed instantly.
-- All requests follow a first-come, first-served system with estimated wait times displayed in-app.
-
-*Note: The maximum waiting period will not exceed three months.*
-
----
+The withdrawal process is designed to be efficient and fair. Users can withdraw immediately when the protocol has sufficient liquidity. During high-demand periods, withdrawals are processed in a queue which follows a first-come, first-serve principle. 
 
 ## Rewards Distribution
 Gimo Finance applies a 10% commission fee to staking rewards. For every 100 A0GI received:

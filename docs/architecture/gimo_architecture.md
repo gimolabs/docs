@@ -8,6 +8,8 @@ Gimo Finance's liquid staking derivatives (LSD) system is built on top of the EV
 
 ## Core Components
 
+The core components form the foundation of Gimo Finance's infrastructure, comprising smart contracts, relay network, and user interface that work together to provide a seamless staking experience.
+
 ### Smart Contracts
 
 The Gimo Finance ecosystem consists of several key smart contracts:
@@ -33,6 +35,8 @@ The User Interface provides:
 - Seamless DeFi integration
 
 ## Operational Flows
+
+The operational flows define the key processes that users interact with, including staking, unstaking, and reward distribution mechanisms.
 
 ### Staking Process
 
@@ -64,9 +68,31 @@ The system implements an automated reward distribution mechanism that:
 - Updates the LSD token exchange rate
 - Maintains system sustainability through platform fees
 
+## System Features
+
+The system features outline the key operational characteristics and capabilities that enable efficient and reliable staking operations.
+
+### Era-based Operations
+- Configurable era duration (1-48 hours)
+- Per-era reward calculations
+- Era-based rate updates
+- Validator rotation per era
+
+### Rate Management
+- Dynamic exchange rate calculation
+- Rate change limits
+- Era-based rate tracking
+- Automated rate updates
+
+### Emergency Protocols
+- System pause functionality
+- Emergency withdrawal options
+- Validator emergency removal
+- Rate freeze capabilities
+
 ## Security Framework
 
-Gimo Finance implements multiple security layers:
+The security framework is designed with multiple layers of protection to ensure the safety and integrity of the staking system and user funds.
 
 1. **Access Control**
    - Role-based permissions
@@ -87,43 +113,3 @@ Gimo Finance implements multiple security layers:
    - Secure bridge operations
    - Multi-chain validation
    - Fallback mechanisms
-
-## System Features
-
-### Era-based Operations
-- Configurable era duration (1-48 hours)
-- Per-era reward calculations
-- Era-based rate updates
-- Validator rotation per era
-
-### Rate Management
-- Dynamic exchange rate calculation
-- Rate change limits
-- Era-based rate tracking
-- Automated rate updates
-
-### Emergency Protocols
-- System pause functionality
-- Emergency withdrawal options
-- Validator emergency removal
-- Rate freeze capabilities
-
-## Technical Specifications
-
-### Smart Contract Architecture
-- Modular design for easy upgrades
-- Gas-optimized operations
-- Upgradeable components
-- Comprehensive event logging
-
-### Network Requirements
-- Minimum validator requirements
-- Network participation thresholds
-- Performance metrics
-- Uptime requirements
-
-### Integration Capabilities
-- DeFi protocol compatibility
-- Cross-chain bridge support
-- API endpoints
-- SDK availability

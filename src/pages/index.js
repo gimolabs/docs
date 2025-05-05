@@ -9,6 +9,7 @@ import styles from './index.module.css';
 
 import { SocialIcon } from 'react-social-icons/component'
 import 'react-social-icons/github'
+import 'react-social-icons/twitter'
 import 'react-social-icons/discord'
 
 
@@ -48,7 +49,9 @@ export default function Home() {
         <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', marginBottom: '20px'}}>
           <SocialIcon style={{width: '21px', 'height': '21px' }} network="github" url="https://github.com/gimofinance" />
           <div style={{width: '1px', margin: '0 10px', backgroundColor: 'rgb(236,236,236)', height: '21px'}}></div>
-          <SocialIcon style={{width: '21px', 'height': '21px'}} network="discord" url="https://discord.gg/" />
+          <SocialIcon style={{width: '21px', 'height': '21px'}} network="twitter" url="https://x.com/Gimo_Fi" />
+          <div style={{width: '1px', margin: '0 10px', backgroundColor: 'rgb(236,236,236)', height: '21px'}}></div>
+          <SocialIcon style={{width: '21px', 'height': '21px'}} network="discord" url="https://discord.com/invite/r24esfXQ68" />
         </div>
       </main>
     </Layout>

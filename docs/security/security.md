@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Security
 
 Gimo Finance is designed to deliver a secure, reliable, and user-centric liquid staking solution for Proof-of-Stake (PoS) networks on [0g.ai](http://0g.ai/). Our security philosophy addresses the inherent tension between mainnet security and token liquidity, ensuring the safety of staked assets, the stability of our LST, and the integrity of integrated PoS ecosystems. We aim to provide a resilient platform that fosters user trust and ecosystem growth by leveraging modular architecture, decentralised governance, and robust economic incentives.
 

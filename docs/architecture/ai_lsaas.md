@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# AI LSaaS
+# AI-Powered LSaaS
 
 ## What is LSaaS?
 

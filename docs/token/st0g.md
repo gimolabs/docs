@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# st0G
+# Liquid Staking Token (st0G)
 
 ## Interest-Bearing & Liquid
 The st0G token offers a unique combination of benefits: it accrues yield while maintaining full liquidity within the 0G ecosystem. This dual functionality allows users to optimize their holdings without sacrificing flexibility.

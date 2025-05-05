@@ -20,16 +20,17 @@ const sidebars = {
 
   // But you can create a sidebar manually
   docsSidebar: [
-    'intro',
     {
-      type: 'doc',
-       id: '0g',
-      label: '0G',
+      type: 'category',
+      label: 'Introduction',
+      items: ['intro', '0g'],
+      collapsible: false,
+      collapsed: false,
     },
     {
       type: 'category',
-      label: 'Gimo Finance',
-      items: ['gimo-finance/st0g', 'gimo-finance/gimo_token'],
+      label: 'Token',
+      items: ['token/st0g', 'token/gimo_token'],
       collapsible: false,
       collapsed: false,
     },
@@ -40,14 +41,15 @@ const sidebars = {
       collapsible: false,
       collapsed: false,
     },
-    {
-      type: 'category',
-      label: 'Security',
-      items: [
-        'security/overview',
-        // 'security/audit',
-      ],
-    },
+    'security/security',
+    // {
+    //   type: 'category',
+    //   label: 'Security',
+    //   items: [
+    //     'security/overview',
+    //     // 'security/audit',
+    //   ],
+    // },
     // {
     //   type: 'category',
     //   label: 'Guide',

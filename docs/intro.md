@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction
+# Gimo Finance
 
 > Gimo Finance is the leading liquid staking protocol for the 0G Network, the first decentralized AI operating system, powered by StaFi’s AI LSaaS.
 

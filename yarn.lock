@@ -1016,6 +1016,11 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
+"@babel/runtime@^7.24.8":
+  version "7.27.1"
+  resolved "http://mirrors.cloud.tencent.com/npm/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
+  integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
+
 "@babel/template@^7.25.9", "@babel/template@^7.26.9", "@babel/template@^7.27.0":
   version "7.27.0"
   resolved "http://mirrors.cloud.tencent.com/npm/@babel/template/-/template-7.27.0.tgz#b253e5406cc1df1c57dcd18f11760c2dbf40c0b4"
@@ -7572,6 +7577,13 @@ react-router@5.3.4, react-router@^5.3.4:
     react-is "^16.6.0"
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
+
+react-social-icons@^6.24.0:
+  version "6.24.0"
+  resolved "http://mirrors.cloud.tencent.com/npm/react-social-icons/-/react-social-icons-6.24.0.tgz#7ff5f1a4f9bfd839ce3929f21dde5400c265f007"
+  integrity sha512-1YlJe2TOf/UwPi2JAb8Ci7J207owP806Tpxu36o4EkB1/jLjGhi83xbCHOagoMyPozTZrPnZIGgvp1LiiWGuZw==
+  dependencies:
+    "@babel/runtime" "^7.24.8"
 
 react@^19.0.0:
   version "19.1.0"

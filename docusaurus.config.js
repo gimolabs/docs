@@ -80,8 +80,18 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/gimofinance/docs',
-            label: 'GitHub',
+            href: 'https://gimofinance.xyz/',
+            label: 'Website',
+            position: 'right',
+          },
+          {
+            href: 'https://app.gimofinance.xyz/',
+            label: 'Launch App',
+            position: 'right',
+          },
+          {
+            href: 'https://www.stafi.io/',
+            label: 'AI LSaaS',
             position: 'right',
           },
         ],

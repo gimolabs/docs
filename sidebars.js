@@ -23,7 +23,13 @@ const sidebars = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['intro', '0g'],
+      items: [
+        {
+          type: 'doc',
+          id: 'intro',
+          label: 'Gimo Finance',
+        },
+      '0g'],
       collapsible: false,
       collapsed: false,
     },

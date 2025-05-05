@@ -2,33 +2,16 @@
 sidebar_position: 2
 ---
 
-# GIMO Token
+# $GIMO Token
 
-\$GIMO – The Core Utility and Governance Token of the GIMO Ecosystem
+$GIMO – Core Utility and Governance Layer of the GIMO Ecosystem
 
-The foundation of the GIMO Finance ecosystem is the **\$GIMO token** — a multifunctional asset that serves as both a governance and reward mechanism. Designed to align user participation with protocol growth, \$GIMO empowers the community while fostering long-term platform sustainability.
+At the heart of GIMO Finance lies the \$GIMO token — a multi-functional asset designed to align community participation with protocol growth. Serving both as a governance tool and reward mechanism, \$GIMO empowers stakeholders while supporting the long-term sustainability of the platform.
 
-Key functions of the $GIMO token include:
+- **Protocol Governance:** \$GIMO holders can propose and vote on protocol-level decisions, helping steer the strategic direction of Gimo Finance through on-chain governance.
+- **0G Ecosystem Voting Rights:** By accumulating \$st0G, users gain the ability to influence decision-making within the broader 0G governance system, with \$GIMO acting as the permissioned access layer for such participation.
+- **Incentivized Participation:** Users who lock \$GIMO are eligible for protocol rewards, incentivizing long-term alignment and deeper community engagement across the ecosystem.
+- **Buyback & Burn Mechanics:** A share of protocol revenue, including staking commissions and ecosystem fees, is allocated to the periodic buyback and burn of \$GIMO. This mechanism reduces token supply over time, reinforcing its deflationary design.
+- **External Voting Utility:** Partner projects may integrate \$GIMO as a governance signal, offering rewards or utility incentives to \$GIMO holders who participate in relevant proposal votes.
 
-- **Governance Rights**
-    
-    $GIMO holders can influence the strategic direction of GIMO Finance by participating in governance proposals and protocol decision-making processes.
-    
-- **0G Governance Participation**
-    
-    Through accumulated st0G holdings, $GIMO enables users to exercise governance rights within the broader 0G ecosystem.
-    
-- **Incentivized Engagement**
-    
-    Users who lock $GIMO tokens are eligible for participation rewards, encouraging sustained involvement and activity across the platform.
-    
-- **Buyback and Burn Mechanism**
-    
-    A portion of platform revenues — including staking reward fees and other profits — is allocated for periodic $GIMO buybacks and token burns, supporting a deflationary token model.
-    
-- **External Voting Incentives**
-    
-    GIMO Finance partners may offer rewards or benefits to token holders in exchange for their participation in governance voting initiatives.
-    
-
-$GIMO is more than a token — it’s the cornerstone of community-driven innovation and governance within the GIMO ecosystem.
+$GIMO is more than a utility token, it anchors governance, incentives, and ecosystem value flow within GIMO Finance’s AI-native liquidity architecture. Tokenomics, distribution models, and emission schedules will be released in the near future to provide full transparency and alignment with long-term ecosystem goals.

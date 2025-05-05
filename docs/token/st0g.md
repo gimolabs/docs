@@ -4,34 +4,36 @@ sidebar_position: 1
 
 # Liquid Staking Token (st0G)
 
-## Interest-Bearing & Liquid
-The st0G token offers a unique combination of benefits: it accrues yield while maintaining full liquidity within the 0G ecosystem. This dual functionality allows users to optimize their holdings without sacrificing flexibility.
+### \$st0G: Liquid Staking for the AI-Native Economy
 
-## Seamless Integration
-st0G is fully compatible with a variety DeFi applications across the 0G network. This compatibility creates expanded opportunities for yield generation and cross-protocol utility.
+Gimo Finance introduces \$st0G as the liquid staking derivative of \$A0GI, designed to meet the demands of 0G’s modular and AI-optimized DeFi landscape. It enables users to earn staking rewards while retaining full liquidity, composability, and protocol-level access across the broader ecosystem.
 
-## Stake
-Gimo Finance offers a liquid staking process similar to other LSD protocols. Users can stake A0GI via the Gimo App and immediately receive a corresponding amount of st0G in their wallets, representing their staked position.
+- **Yield-Bearing, Fully Composable:** \$st0G transforms staked \$A0GI into a yield-accruing, transferable asset. Users can benefit from continuous staking returns while utilizing \$st0G in DeFi applications—maximizing capital efficiency without locking up funds.
+- **Seamless DeFi Integration:** Built to power programmable capital flows, \$st0G integrates with lending protocols, liquidity pools, yield optimizers, and more within the 0G ecosystem. This composability supports complex, modular strategies aligned with the needs of autonomous finance.
+- Non-Custodial Staking Process: Through Gimo’s Launch App, users stake \$A0GI and instantly receive \$st0G. This operation is fully decentralized and non-custodial, secured by StaFi’s AI-powered LSaaS framework, ensuring both safety and composability at the protocol level.
 
-## Unstake
-Unstaking involves two steps: submitting an unstake request and withdrawing the underlying asset. When a user submits an unstake request, their st0G is burned to reserve an equivalent amount of A0GI for future withdrawal. No rewards are accrued post-unstake.
+### Unstaking & Withdrawal Logic
 
-## Withdraw
+Unstaking begins with burning \$st0G to reserve the corresponding \$A0GI amount. No rewards accrue after the burn, maintaining accounting clarity. Withdrawals are aligned with 0G’s 22-day epoch cycle:
 
-The withdrawal process is designed to be efficient and fair. Users can withdraw immediately when the protocol has sufficient liquidity. During high-demand periods, withdrawals are processed in a queue which follows a first-come, first-serve principle. 
+- Every 22 days, Gimo receives the principal and rewards from the underlying staking.
+- Requests are processed on a first-come, first-served basis.
+- If liquidity is available, withdrawals are instant; otherwise, they roll over to the next cycle.
 
-## Rewards Distribution
-Gimo Finance applies a 10% commission fee to staking rewards. For every 100 A0GI received:
+**Note:** All pending requests are transparently tracked in-app, with a maximum withdrawal window capped at 90 days to preserve predictability and user trust.
+
+### **Rewards Distribution**
+
+Gimo Finance charges a 10% commission on staking rewards—meaning that for every 100 \$ A0GI earned, 10 $A0GI is retained as a fee.
 
 | Role | Amount | Formula |
 | --- | --- | --- |
 | Users | $90$ | $100 × (1 - 0.1)$ |
 | Gimo Finance | $10$ | $100 × 0.1$ |
 
-## Exchange Rate Dynamics
-st0G is an interest-bearing asset whose value continuously appreciates as rewards accumulate. A0GI staked via the Gimo App is transferred to the 0G Staking Vault, with rewards periodically calculated and reflected on-chain in the exchange rate.
+### **Exchange Rate**
 
-Since there is no slashing, the st0G exchange rate is guaranteed to increase over time, allowing later redeemers to potentially receive more A0GI than earlier ones.
+The `st0G` token functions as an interest-bearing asset—its value steadily climbs as staking rewards accrue. When \$A0GI is staked through the Gimo Launch App, it moves into the 0G Staking Vault. Rewards are calculated at regular intervals and automatically reflected in the on-chain exchange rate.
 
 The exchange rate ($C_{r}$) is calculated as:
 
@@ -41,19 +43,21 @@ $$
 
 Where:
 
-- The total amount of A0GI staked in the Staking Contract: $Q_{tsk}$
-- The total amount of redeemed A0GI: $Q_{red}$
+- The total amount of \$A0GI staked in the Staking Contract: $Q_{tsk}$
+- The total amount of redeemed \$A0GI: $Q_{red}$
 - The amount of staking rewards: $Q_{rew}$
 - The commission ratio: $R_{com}$
-- The total amount of st0G minted: $M$
-- The total amount of st0G burned: $N$
+- The total amount of \$st0G minted: $M$
+- The total amount of \$st0G burned: $N$
 
-## Yield Structure
+Since the protocol does not implement a slashing mechanism, the exchange rate can only increase as rewards accumulate. This means that later redeemers may receive a larger amount of \$A0GI upon redemption compared to earlier redeemers.
 
-The protocol's yield structure as follows:
+### **Yield Structure**
 
-- Network participation metrics
-- Total protocol stake
-- Market dynamics
+The protocol’s yield is determined by three key factors:
+
+- Network Participation Metrics
+- Total Protocol Stake
+- Market Dynamics
 
 Token holders may monitor their staking performance and the protocol's annual percentage yield (APY) through the integrated dashboard interface.

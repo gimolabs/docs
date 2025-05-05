@@ -46,9 +46,9 @@ export default function Home() {
           <img style={{margin: '0 auto', display: 'block'}} src="/img/landing/img2.svg" />
         </div>
         <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', marginBottom: '20px'}}>
-          <SocialIcon style={{width: '21px', 'height': '21px' }} network="github" url="https://github.com/hitofinance" />
+          <SocialIcon style={{width: '21px', 'height': '21px' }} network="github" url="https://github.com/gimofinance" />
           <div style={{width: '1px', margin: '0 10px', backgroundColor: 'rgb(236,236,236)', height: '21px'}}></div>
-          <SocialIcon style={{width: '21px', 'height': '21px'}} network="discord" url="https://discord.gg/hitofinance" />
+          <SocialIcon style={{width: '21px', 'height': '21px'}} network="discord" url="https://discord.gg/" />
         </div>
       </main>
     </Layout>

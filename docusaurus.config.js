@@ -13,19 +13,19 @@ import rehypeKatex from 'rehype-katex';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Gimo Finance',
-  tagline: 'Gimo Finance',
+  tagline: 'Gimo Finance is the leading liquid staking protocol for the 0G Network, the first decentralized AI operating system, powered by StaFi’s AI LSaaS.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.gimofinance.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'gimofinance', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,7 +44,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
@@ -76,22 +75,19 @@ const config = {
       navbar: {
         title: 'Gimo Finance',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Gimo Finance Logo',
+          src: '/img/landing/gimo-whiteup.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'docsSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
           {
             href: 'https://github.com/gimofinance/docs',
             label: 'GitHub',
             position: 'right',
           },
         ],
+      },
+      colorMode: {
+        disableSwitch: true,
       },
       prism: {
         theme: prismThemes.github,

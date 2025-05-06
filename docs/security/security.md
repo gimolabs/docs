@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Security
 
-Gimo Finance is designed to deliver a secure, reliable, and user-centric liquid staking solution for Proof-of-Stake (PoS) networks on [0g.ai](http://0g.ai/). Our security philosophy addresses the inherent tension between mainnet security and token liquidity, ensuring the safety of staked assets, the stability of our LST, and the integrity of integrated PoS ecosystems. We aim to provide a resilient platform that fosters user trust and ecosystem growth by leveraging modular architecture, decentralised governance, and robust economic incentives.
+Gimo Finance is designed to deliver a secure, reliable, and user-centric liquid staking solution for Proof-of-Stake (PoS) networks on [0G](http://0g.ai/). Our security philosophy addresses the inherent tension between mainnet security and token liquidity, ensuring the safety of staked assets, the stability of our LST, and the integrity of integrated PoS ecosystems. We aim to provide a resilient platform that fosters user trust and ecosystem growth by leveraging modular architecture, decentralised governance, and robust economic incentives.
 
 # **Security Framework**
 
@@ -41,4 +41,4 @@ Decentralized governance ensures community-driven decision-making while safeguar
 
 # **Conclusion**
 
-Gimo Finance is built on a multi-layered security framework inspired by [StaFi](https://www.stafi.io/)’s expertise in multi-chain liquid staking. By combining modular design, decentralized governance, robust economic incentives, and proactive risk mitigation, we deliver a secure and scalable solution on [0g.ai](http://0g.ai) that protects user assets while advancing the PoS ecosystem. Our commitment to transparency, community engagement, and continuous improvement ensures long-term trust and reliability.
+Gimo Finance is built on a multi-layered security framework inspired by [StaFi](https://www.stafi.io/)’s expertise in multi-chain liquid staking. By combining modular design, decentralized governance, robust economic incentives, and proactive risk mitigation, we deliver a secure and scalable solution on [0G](http://0g.ai) that protects user assets while advancing the PoS ecosystem. Our commitment to transparency, community engagement, and continuous improvement ensures long-term trust and reliability.

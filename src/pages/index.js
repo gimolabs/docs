@@ -51,7 +51,7 @@ export default function Home() {
           <div style={{width: '1px', margin: '0 10px', backgroundColor: 'rgb(236,236,236)', height: '21px'}}></div>
           <SocialIcon style={{width: '21px', 'height': '21px'}} network="twitter" url="https://x.com/Gimo_Fi" />
           <div style={{width: '1px', margin: '0 10px', backgroundColor: 'rgb(236,236,236)', height: '21px'}}></div>
-          <SocialIcon style={{width: '21px', 'height': '21px'}} network="discord" url="https://discord.com/invite/r24esfXQ68" />
+          <SocialIcon style={{width: '21px', 'height': '21px'}} network="discord" url="https://discord.gg/2NWRuPJFT3" />
         </div>
       </main>
     </Layout>

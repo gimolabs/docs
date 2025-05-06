@@ -7,7 +7,7 @@ slug: /
 
 ## Vision: Activating Liquidity for the AI Economy
 
-As decentralized AI infrastructure demands fluid, programmable capital, Gimo Finance delivers the foundational layer to unlock the full liquidity potential of $A0GI within the 0G ecosystem.
+As decentralized AI infrastructure demands fluid, programmable capital, Gimo Finance delivers the foundational layer to unlock the full liquidity potential of $A0GI within the [0G](https://0g.ai/) ecosystem.
 
 Built on StaFi’s AI-powered LSaaS (Liquid Staking as a Service), Gimo Finance transforms staked assets into yield-generating, composable capital—aligning liquidity access with 0G’s mission of decentralized intelligence.
 

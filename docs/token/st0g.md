@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Liquid Staking Token (st0G)
 
-### \$st0G: Liquid Staking for the AI-Native Economy
+### Liquid Staking Token for 0G
 
 Gimo Finance introduces \$st0G as the liquid staking derivative of \$A0GI, designed to meet the demands of 0G’s modular and AI-optimized DeFi landscape. It enables users to earn staking rewards while retaining full liquidity, composability, and protocol-level access across the broader ecosystem.
 
-- **Yield-Bearing, Fully Composable:** \$st0G transforms staked \$A0GI into a yield-accruing, transferable asset. Users can benefit from continuous staking returns while utilizing \$st0G in DeFi applications—maximizing capital efficiency without locking up funds.
+- **Yield-Bearing, Fully Composable:** \$st0G transforms staked \$A0GI into a yield-accruing, transferable asset. Users can benefit from continuous staking returns while utilizing \$st0G in DeFi applications, maximizing capital efficiency without locking up funds.
 - **Seamless DeFi Integration:** Built to power programmable capital flows, \$st0G integrates with lending protocols, liquidity pools, yield optimizers, and more within the 0G ecosystem. This composability supports complex, modular strategies aligned with the needs of autonomous finance.
 - Non-Custodial Staking Process: Through Gimo’s Launch App, users stake \$A0GI and instantly receive \$st0G. This operation is fully decentralized and non-custodial, secured by StaFi’s AI-powered LSaaS framework, ensuring both safety and composability at the protocol level.
 
@@ -24,7 +24,7 @@ Unstaking begins with burning \$st0G to reserve the corresponding \$A0GI amount.
 
 ### **Rewards Distribution**
 
-Gimo Finance charges a 10% commission on staking rewards—meaning that for every 100 \$ A0GI earned, 10 $A0GI is retained as a fee.
+Gimo Finance charges a 10% commission on staking rewards, meaning that for every 100 \$ A0GI earned, 10 $A0GI is retained as a fee.
 
 | Role | Amount | Formula |
 | --- | --- | --- |

@@ -47,7 +47,7 @@ To serve different ecosystems and use cases, StaFi provides pre-configured compo
 - **Karak LRT Stack:** Designed to integrate with Karak’s modular restaking architecture, supporting dynamic delegation and layered validator networks.
 - **Cosmos LST Stack:** Tailored for Cosmos SDK chains with IBC support, offering cross-chain liquid staking across sovereign PoS zones.
 - **Solana LST Stack:** Engineered for Solana’s high-throughput network, optimizing for parallelized execution and fast finality in LST issuance.
-- **TON LST Stack:** Enables liquid staking within The Open Network (TON), bridging staking rewards with applications native to the Telegram ecosystem.
+- **TON LST Stack:** Enables liquid staking within TON, bridging staking rewards with applications native to the Telegram ecosystem.
 - **StaFi AI Agent:** An intelligent automation layer that streamlines validator orchestration, deployment workflows, and staking logic customization.
 
 ### Modular App Store

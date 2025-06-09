@@ -16,11 +16,10 @@ Gimo Finance introduces \$st0G as the liquid staking derivative of \$A0GI, desig
 
 Unstaking begins with burning \$st0G to reserve the corresponding \$A0GI amount. No rewards accrue after the burn, maintaining accounting clarity. Withdrawals are aligned with 0G’s 22-day epoch cycle:
 
-- Every 22 days, Gimo receives the principal and rewards from the underlying staking.
+- Every 24 hours, Gimo receives the principal and rewards from the underlying staking.
 - Requests are processed on a first-come, first-served basis.
-- If liquidity is available, withdrawals are instant; otherwise, they roll over to the next cycle.
 
-**Note:** All pending requests are transparently tracked in-app, with a maximum withdrawal window capped at 90 days to preserve predictability and user trust.
+**Note:** Rewards accumulation ceases upon initiation of the unstaking process.
 
 ### **Rewards Distribution**
 

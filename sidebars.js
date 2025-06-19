@@ -36,7 +36,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Token',
-      items: ['token/st0g', 'token/gimo_token'],
+      items: ['token/st0g', 'token/gimo_token', 'token/faucet'],
       collapsible: false,
       collapsed: false,
     },

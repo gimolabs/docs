@@ -43,7 +43,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Architecture',
-      items: ['architecture/gimo_architecture', 'architecture/ai_lsaas'],
+      items: ['architecture/gimo_architecture', 'architecture/staking_vault_architecture', 'architecture/ai_lsaas'],
       collapsible: false,
       collapsed: false,
     },

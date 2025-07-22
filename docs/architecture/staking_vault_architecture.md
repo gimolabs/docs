@@ -20,7 +20,7 @@ Staking Vaults encapsulate all necessary staking logic for a specific token on 0
 
 The LSD (Liquid Staking Derivatives) Project is an extension of the Staking Vault that introduces liquidity to otherwise locked staked assets.
 
-While staking vault locks user tokens for a fixed period, LSD allows users to receive Liquid Staking Tokens (LSTs) in return for staking their assets through a Staking Vault. These LSTs represent the user’s staked position and can be freely transferred, traded, or used within DeFi protocols on the SONIC network.
+While staking vault locks user tokens for a fixed period, LSD allows users to receive Liquid Staking Tokens (LSTs) in return for staking their assets through a Staking Vault. These LSTs represent the user’s staked position and can be freely transferred, traded, or used within DeFi protocols on the 0G network.
 
 The LSD Project enhances user experience and capital efficiency by enabling:
 1. Immediate liquidity: Users can access the value of their staked assets without waiting for the unbonding period

@@ -36,7 +36,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Token',
-      items: ['token/st0g', 'token/gimo_token', 'token/faucet'],
+      items: ['token/st0g', 'token/gimo_token', 'token/faucet', 'token/tokennomics'],
       collapsible: false,
       collapsed: false,
     },
@@ -48,6 +48,7 @@ const sidebars = {
       collapsed: false,
     },
     'security/security',
+    'roadmap/roadmap',
     // {
     //   type: 'category',
     //   label: 'Security',

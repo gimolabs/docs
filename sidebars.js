@@ -48,7 +48,13 @@ const sidebars = {
       collapsed: false,
     },
     'security/security',
-    'roadmap/roadmap',
+    {
+      type: 'category',
+      label: 'Roadmap',
+      items: ['roadmap/roadmap', 'roadmap/roadmap2'],
+      collapsible: false,
+      collapsed: false,
+    },
     // {
     //   type: 'category',
     //   label: 'Security',
